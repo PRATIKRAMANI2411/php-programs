@@ -14,6 +14,6 @@ for ($i=0; $i < count($array); $i++) {
 }
 
 echo '<pre>';print_r('Max :- '. $max);echo '</pre>';
-echo '<pre>';print_r('secMax :- ' . $secMax);echo '</pre>';
+echo '<pre>';print_r('secMax :- ' . $secMax);echo '</pre>'; 
 
 ?>
